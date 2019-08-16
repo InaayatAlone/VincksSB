@@ -11,4 +11,4 @@ async def on_ready():
 	print("loading logs")
 	print("logged in")
 	
-client.run(NjExOTY3MDAzNTUyNTE0MTE1.XVbg3Q.7BjuiaEEdHCyKubW2jbslRFRCDo)	
+client.run("NjExOTY3MDAzNTUyNTE0MTE1.XVbg3Q.7BjuiaEEdHCyKubW2jbslRFRCDo")	
